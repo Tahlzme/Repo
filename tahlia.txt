@@ -5,5 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Tahlzme/Repo.git
 git push -u origin main
-
 adding new text to test 
+bug removed
